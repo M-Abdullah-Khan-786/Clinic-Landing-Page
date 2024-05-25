@@ -1,6 +1,6 @@
 **Clinic Landing Page Project**
 
-This project aims to create a responsive landing page for a clinic using modern web development tools and frameworks, specifically React, Vite, and Tailwind CSS. This README provides theoretical details and instructions on how to set up the project and develop the landing page.
+This project aims to create a responsive landing page for a clinic using modern web development tools and frameworks, specifically React, Vite, and Tailwind CSS.
 
 **Project Overview**
 
